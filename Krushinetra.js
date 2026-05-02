@@ -1,3 +1,4 @@
+import { useState } from "react";
 import { useState, useRef, useCallback, useEffect } from "react";
 
 const MARATHI_THOUGHTS = [
