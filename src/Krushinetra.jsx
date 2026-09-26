@@ -1,5 +1,9 @@
-import { useState } from "react";
-import { useState, useRef, useCallback, useEffect } from "react";
+import {
+  useState,
+  useRef,
+  useCallback,
+  useEffect
+} from "react";
 
 const MARATHI_THOUGHTS = [
   { thought: "शेती हीच आमची संस्कृती, शेतकरी हाच आमचा देव।", translation: "Farming is our culture, the farmer is our God." },
