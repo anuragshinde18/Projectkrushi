@@ -932,3 +932,4 @@ If healthy, set isHealthy true.`,
     </>
   );
 }
+export default Krushinetra;
